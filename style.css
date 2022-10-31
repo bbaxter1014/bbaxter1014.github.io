@@ -1,0 +1,24 @@
+body {
+  background: royalblue;
+}
+
+.col-10 {
+  backgroung: lightblue;
+  width: 100;
+}
+
+#fanDuel {
+  height: 50px;
+}
+
+#navRow {
+  color: white;
+  background-color: navy;
+}
+
+#logIn {
+  background-color: royalblue;
+  color: white;
+  border-radius: 2px;
+  border: none;
+}
